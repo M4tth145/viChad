@@ -1,4 +1,4 @@
-# vimConfig
+# viChad
 my Vimrc for neovim (costumized ViChad)
 
 ## Installing 
